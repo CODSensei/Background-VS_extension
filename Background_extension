@@ -29,7 +29,7 @@
             ]
         }
     },
-    "background.enabled":true,
+    "background.enabled":false,
     "background.fullscreen": {
           "image": "https://wallpaperaccess.in/public/uploads/preview/nico-robin-wano-wallpaper-one-piece-wano-arc-aesthetic-devil-child-w.jpg", // url of your image
           // "image": ["https://pathtoimage.png"], // An array may be useful when set interval for carousel
